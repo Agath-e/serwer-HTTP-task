@@ -1,0 +1,12 @@
+{
+  "name": "serwer-HTTP-task",
+  "version": "1.0.0.",
+  "description": "\"\"",
+  "main": "index.j",
+  "author": "Agata Pacholczyk",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
